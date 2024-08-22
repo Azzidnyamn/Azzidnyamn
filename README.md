@@ -50,7 +50,7 @@
 
 ### Connect with me:
 
-- LinkedIn: [Azzidny Amin](http://linkedin.com/in/azzidny-amin)
+- LinkedIn: [Azzidny Amin](http://linkedin.com/in/azzidny-amin-85529020b)
 - GitHub: [azzidnyamin](https://github.com/Azzidnyamn)
 - Instagram: [azzidny_amin](https://www.instagram.com/zidny_amn/)
 
