@@ -46,5 +46,3 @@
 - Instagram: [azzidny_amin](https://www.instagram.com/zidny_amn/)
 
 ---
-
-This text should fit well into a professional README for your GitHub or personal profile.
