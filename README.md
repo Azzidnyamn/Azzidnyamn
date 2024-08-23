@@ -13,15 +13,6 @@
 #### 1. Institut Teknologi Bandung | Bachelor of Science in Astronomy | Bandung `Aug 2020 - Aug 2024`
    - Research Assistant: Contributed to data processing and analysis for astronomical research, requiring strong mathematical skills and proficiency in Python.
    - Relevant Coursework: Computational Astronomy, Statistics, Data Mining – Applied Python extensively for data analysis, demonstrating strong data manipulation and statistical skills.
-   
-## Leadership Experience:
-
-#### 1. Himpunan Mahasiswa Astronomi ITB | Head of Pembinaan Anggota Muda `Jun 2023 - Sep 2023`
-   - Led a 60-member team to implement a comprehensive development program for new members.
-
-#### 2. Tutor Asrama ITB | Head of Pembinaan Terpusat `Jan 2023 - May 2023`
-   - Directed a 100-member team in organizing orientation programs for new students of ITB.
-   - Organized and led a seminar on community service, and managed five community service programs focused on public health and sanitation improvements.
 
 ## Research Experience:
 
