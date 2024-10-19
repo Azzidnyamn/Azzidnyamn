@@ -39,11 +39,20 @@
    - Processed and analyzed over 5 million photometric data points using Python.
    - Developed models for **classifying transient objects** with an AUC score of 0.9+.
 
-#### 2. **Business Decision Making: Market Research & Churn Prediction**
+#### 2. [**Business Decision Making: Market Research & Churn Prediction**](https://github.com/Azzidnyamn/Business_Decision_Research_Churn_Customer_Prediction.git)
    - Built churn models for a retail store using Python, enabling insights into **customer retention**.
 
-#### 3. **Sales Performance Dashboard** - Google Looker Studio
+#### 3. [**Sales Performance Dashboard** - Google Looker Studio](https://github.com/Azzidnyamn/Superstore_Looker_Dasboard/blob/4e49fb01555032084df4a88bff9f9d081e3fdc3e/Superstore_Looker_Dasboard.pdf)
    - Created a dashboard to track sales metrics and **optimize operations**.
+   - 
+#### 4. [**Customer Segmentation with Python**]([https://github.com/Azzidnyamn/Business_Decision_Research_Churn_Customer_Prediction.git](https://github.com/Azzidnyamn/Data-Science/blob/2eb57e31fbe3d6924b9ad3a1eaaa53c3ecfc0cbe/Penerapan%20di%20Industri/Data%20Science%20in%20Marketing_Customer%20Segmentation%20with%20Python.ipynb))
+   - Performed customer segmentation using K-Modes and K-Prototypes to categorize customers based on demographics and purchasing behavior.
+   - Processed data using Pandas and visualized key insights to guide targeted marketing strategies.
+
+#### 5. [**Time Series Sales Forecasting**](https://github.com/Azzidnyamn/Superstore_Looker_Dasboard/blob/4e49fb01555032084df4a88bff9f9d081e3fdc3e/Superstore_Looker_Dasboard.pdf)
+   - Applied various forecasting models (ARIMA, SARIMA, Linear Regression) to analyze product sales trends.
+   - Identified patterns in time series data to provide accurate sales predictions, optimizing inventory management.
+
 
 ---
 
@@ -69,54 +78,5 @@
 - **LinkedIn:** [Azzidny Amin](http://linkedin.com/in/azzidny-amin-85529020b)
 - **GitHub:** [azzidnyamin](https://github.com/Azzidnyamn)
 - **Instagram:** [azzidny_amin](https://www.instagram.com/zidny_amn/)
-
----
-
-
-# Hi there, I'm Azzidny Amin 👋
-## About me:
-- 🌌 Fresh Graduate in Astronomy from Institut Teknologi Bandung
-- 🧠 Currently developing skills in Data Science and Machine Learning
-- 💻 Proficient in Python for data manipulation, statistical analysis, and model development
-- 🌟 Open to collaborations in data analysis, machine learning, and research projects
-- 🤔 Interested in innovative ideas and challenges in the data science field
-- 📫 How to reach me: azzidnyaov20@gmail.com
-
-## Education:
-
-#### 1. Institut Teknologi Bandung | Bachelor of Science in Astronomy | Bandung `Aug 2020 - Aug 2024`
-   - Research Assistant: Contributed to data processing and analysis for astronomical research, requiring strong mathematical skills and proficiency in Python.
-   - Relevant Coursework: Computational Astronomy, Statistics, Data Mining – Applied Python extensively for data analysis, demonstrating strong data manipulation and statistical skills.
-
-## Research Experience:
-
-#### 1. Tim Riset PPMI Gugus Ganda | Research Assistant `Mar 2024 - Present`
-   - Collected and preprocessed observational data from telescopes and databases, ensuring quality for machine learning analysis.
-   - Developed and implemented custom machine learning algorithms to identify and analyze double galaxy clusters.
-
-#### 2. [Final Project](https://digilib.itb.ac.id/gdl/view/84776/10320045?rows=1&per_page=2): Supernova Light Curve Classification using Machine Learning `Oct 2023 - Jul 2024`
-   - Gathered and preprocessed raw data using Python, focusing on photometry data for machine learning classification.
-   - Developed and optimized models to classify supernovae and other transient objects using data from the Zwicky Transient Facility.
-
-## Skillset:
-
-- **Data Science & Machine Learning:** Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Keras, TensorFlow) for data manipulation, analysis, visualization, and model development.
-- **Data Collection & Preprocessing:** Experienced in gathering data from various sources, cleaning, and preparing data for analysis.
-- **Statistical Analysis:** Strong foundation in statistical methods and techniques for data analysis.
-- **Model Development & Deployment:** Familiar with developing, training, and deploying machine learning models, including feature engineering and hyperparameter tuning.
-- **Data Visualization:** Skilled in creating insightful visualizations and dashboards using Python libraries.
-- **Tools & Technologies:** Proficient in Jupyter, Visual Studio Code, SQL, and Microsoft Office Suite.
-
-## Licenses and Certifications:
-
-- **Python for Data Science** - DQLab [View Certificate](https://drive.google.com/file/d/1eaNN4ldJNnta3fvPEJ_Ko755dv8cX1P5/view?usp=sharing)
-
----
-
-### Connect with me:
-
-- LinkedIn: [Azzidny Amin](http://linkedin.com/in/azzidny-amin-85529020b)
-- GitHub: [azzidnyamin](https://github.com/Azzidnyamn)
-- Instagram: [azzidny_amin](https://www.instagram.com/zidny_amn/)
 
 ---
