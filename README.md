@@ -44,8 +44,8 @@
 
 #### 3. [**Sales Performance Dashboard** - Google Looker Studio](https://github.com/Azzidnyamn/Superstore_Looker_Dasboard/blob/4e49fb01555032084df4a88bff9f9d081e3fdc3e/Superstore_Looker_Dasboard.pdf)
    - Created a dashboard to track sales metrics and **optimize operations**.
-   - 
-#### 4. [**Customer Segmentation with Python**]([https://github.com/Azzidnyamn/Business_Decision_Research_Churn_Customer_Prediction.git](https://github.com/Azzidnyamn/Data-Science/blob/2eb57e31fbe3d6924b9ad3a1eaaa53c3ecfc0cbe/Penerapan%20di%20Industri/Data%20Science%20in%20Marketing_Customer%20Segmentation%20with%20Python.ipynb))
+     
+#### 4. [**Customer Segmentation with Python**](https://github.com/Azzidnyamn/Data-Science/blob/2eb57e31fbe3d6924b9ad3a1eaaa53c3ecfc0cbe/Penerapan%20di%20Industri/Data%20Science%20in%20Marketing_Customer%20Segmentation%20with%20Python.ipynb)
    - Performed customer segmentation using K-Modes and K-Prototypes to categorize customers based on demographics and purchasing behavior.
    - Processed data using Pandas and visualized key insights to guide targeted marketing strategies.
 
@@ -68,8 +68,9 @@
 
 ## Certifications:
 
-- **Python for Data Science** - DQLab [View Certificate](https://drive.google.com/file/d/1eaNN4ldJNnta3fvPEJ_Ko755dv8cX1P5/view?usp=sharing)
-- **Microsoft Excel Basic & Advanced** - LSIK ITB
+- **Bootcamp Data Analyst with SQL & Python in Google Platform Batch 13** - DQLab [View Certificate](https://academy.dqlab.id/Certificate_check/result/DQLABBDASPGPB13GTLCDJ#mycertificate)
+- **Workshop Microsoft Excel Basic & Advanced by LSIK ITB 2024** - LSIK ITB [View Certificate](https://drive.google.com/file/d/1I7ClHpefowQ5cAy2Q6j2FR9uYF85iH7b/view?usp=sharing)
+- **20+ Python for Data Science Courses** - DQLab [View Certificates](https://drive.google.com/file/d/1eaNN4ldJNnta3fvPEJ_Ko755dv8cX1P5/view?usp=sharing)
 
 ---
 
