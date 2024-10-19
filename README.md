@@ -1,5 +1,79 @@
 
 # Hi there, I'm Azzidny Amin 👋
+
+## About Me:
+- 🌌 **Fresh Graduate in Astronomy** from Institut Teknologi Bandung
+- 🧠 **Developing expertise in Data Science, Machine Learning, and AI**
+- 💻 Proficient in Python for data analysis, model development, and statistical experimentation
+- 📊 **Experienced in creating dashboards and visualizations** to support data-driven decision-making
+- 🌟 Open to **collaborations in data science, machine learning, and research projects**
+- 🤖 Passionate about using **machine learning** to solve real-world problems
+- 📫 How to reach me: [azzidnyamn@gmail.com](mailto:azzidnyamn@gmail.com)
+
+---
+
+## Education:
+
+#### 1. Institut Teknologi Bandung | **Bachelor of Science in Astronomy** | Bandung `Aug 2020 - Aug 2024`
+   - Research Assistant: Contributed to data analysis in astronomical research using Python.
+   - Relevant Coursework: **Computational Astronomy, Statistics, Data Mining**
+   - Applied Python extensively for **data manipulation and statistical modeling**.
+
+---
+
+## Experience:
+
+#### 1. **Alignerr** | Freelance Generalist AI Trainer | Remote `Aug 2024 – Present`
+   - Enhanced AI models through **Python-based analysis** and feedback.
+   - Delivered **data-driven insights** to improve AI performance.
+
+#### 2. **Tim Riset PPMI Gugus Ganda** | Research Assistant | `Mar 2024 – Sep 2024`
+   - Collected and preprocessed **astronomical datasets** for machine learning analysis.
+   - Implemented custom ML algorithms to analyze **double galaxy clusters**.
+
+---
+
+## Projects:
+
+#### 1. [**Supernova Light Curve Classification using Machine Learning**](https://github.com/Azzidnyamn/ML-for-SN-Ia-light-curve-classification.git) 
+   - Processed and analyzed over 5 million photometric data points using Python.
+   - Developed models for **classifying transient objects** with an AUC score of 0.9+.
+
+#### 2. **Business Decision Making: Market Research & Churn Prediction**
+   - Built churn models for a retail store using Python, enabling insights into **customer retention**.
+
+#### 3. **Sales Performance Dashboard** - Google Looker Studio
+   - Created a dashboard to track sales metrics and **optimize operations**.
+
+---
+
+## Skills:
+
+- **Programming:** Python (Pandas, NumPy, Matplotlib), SQL
+- **Data Science & Machine Learning:** scikit-learn, TensorFlow, Keras
+- **Data Visualization:** Looker, Tableau, Matplotlib
+- **Tools & Platforms:** Google Cloud Platform, Jupyter Notebook, Visual Studio Code
+- **Modeling:** Regression, Classification, Clustering, Time Series Forecasting
+
+---
+
+## Certifications:
+
+- **Python for Data Science** - DQLab [View Certificate](https://drive.google.com/file/d/1eaNN4ldJNnta3fvPEJ_Ko755dv8cX1P5/view?usp=sharing)
+- **Microsoft Excel Basic & Advanced** - LSIK ITB
+
+---
+
+### Let's Connect:
+
+- **LinkedIn:** [Azzidny Amin](http://linkedin.com/in/azzidny-amin-85529020b)
+- **GitHub:** [azzidnyamin](https://github.com/Azzidnyamn)
+- **Instagram:** [azzidny_amin](https://www.instagram.com/zidny_amn/)
+
+---
+
+
+# Hi there, I'm Azzidny Amin 👋
 ## About me:
 - 🌌 Fresh Graduate in Astronomy from Institut Teknologi Bandung
 - 🧠 Currently developing skills in Data Science and Machine Learning
